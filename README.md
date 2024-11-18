@@ -1,2 +1,5 @@
-# go.dev_tutorial_getting_started
-Tutorial: Get started with Go
+# go.dev: Tutorial: Get started with Go
+
+## Reference:
+
+- https://go.dev/doc/tutorial/getting-started
